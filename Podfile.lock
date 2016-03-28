@@ -1,0 +1,13 @@
+PODS:
+  - libPhoneNumber-iOS (0.8.10)
+  - SnapKit (0.18.0)
+
+DEPENDENCIES:
+  - libPhoneNumber-iOS (~> 0.8)
+  - SnapKit (~> 0.16)
+
+SPEC CHECKSUMS:
+  libPhoneNumber-iOS: 7bfd00f843fdcd82b5182b463e8eb3b27579f41d
+  SnapKit: e1f090a6d47b1dd4bd89b73f72b6746a7835ef3c
+
+COCOAPODS: 0.39.0
